@@ -1,27 +1,26 @@
 # TechWorld with Nana — IT Fundamentals Checklist
 
 > **12-week plan · ~10–14 hrs/week · ~60 hrs total video content**
-> Copy this into Notion and use checkboxes to track progress.
 
 ---
 
 ## 📅 Week 1 — Orientation, AI Setup & SDLC (~8–10 hrs)
 
 ### Chapter 0: Course Overview & Getting Started
-- [ ] Lesson 01: Welcome & Course Overview (3:35)
-- [ ] Lesson 02: Curriculum (7:10)
-- [ ] Lesson 03: How to Access Course Resources (5:43)
-- [ ] Lesson 04: Administrative FAQs
+- [✅] Lesson 01: Welcome & Course Overview (3:35)
+- [✅] Lesson 02: Curriculum (7:10)
+- [✅] Lesson 03: How to Access Course Resources (5:43)
+- [✅] Lesson 04: Administrative FAQs
 
 ### Chapter 1: Create Own AI Study Assistant
-- [ ] Lesson 01: How to use AI to Learn Faster and Efficiently (6:28)
-- [ ] Lesson 02: Create Custom Study Plan with AI (12:33)
-- [ ] Lesson 03: Create Individualised Demo Exercises with AI (11:10)
-- [ ] Lesson 04: How to Keep Momentum to Learn (9:01)
-- [ ] Lesson 05: Do's and Don'ts of Using AI as Your Study Companion (6:44)
+- [✅] Lesson 01: How to use AI to Learn Faster and Efficiently (6:28)
+- [✅] Lesson 02: Create Custom Study Plan with AI (12:33)
+- [✅] Lesson 03: Create Individualised Demo Exercises with AI (11:10)
+- [✅] Lesson 04: How to Keep Momentum to Learn (9:01)
+- [✅] Lesson 05: Do's and Don'ts of Using AI as Your Study Companion (6:44)
 
 ### Chapter 2: Introduction to Software Development Workflow
-- [ ] Lesson 01: Software Development Workflow (12:18)
+- [✅] Lesson 01: Software Development Workflow (12:18)
 - [ ] Lesson 02: What is Agile and Scrum (19:53)
 - [ ] Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
 
