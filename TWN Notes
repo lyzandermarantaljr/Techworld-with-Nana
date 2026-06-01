@@ -7,19 +7,19 @@ CHAPTER 0 — Course Overview & Getting Started
 
 Lesson 01: Welcome & Course Overview (3:35)
 Notes:
-
+None
 
 Lesson 02: Curriculum (7:10)
 Notes:
-
+None
 
 Lesson 03: How to Access Course Resources (5:43)
 Notes:
-
+None
 
 Lesson 04: Administrative FAQs
 Notes:
-
+None
 
 ────────────────────────────────────────────────────────────────────────
 
@@ -33,26 +33,24 @@ Lesson 02: Create Custom Study Plan with AI (12:33)
 Notes:
 Use AI to quiz you.
 
-Change the difficulty of the questions.
-
-Never get lazy on the prompts.
+Change the difficulty of the questions if too easy or too difficult.
 
 Lesson 03: Create Individualised Demo Exercises with AI (11:10)
 Notes:
 Have AI create debugging prompts to really learn how to fix code because that I would be doing in real world scenario.
 
-
-
 Lesson 04: How to Keep Momentum to Learn (9:01)
 Notes:
+Allow yourself to feel good after hitting your goals or completing a week's worth of work.
 
+Don't let your setbacks prevent you from starting up again and gaining momentum again.
 
 Lesson 05: Do's and Don'ts of Using AI as Your Study Companion (6:44)
 Notes:
-
+Never get lazy on the prompts. The clearer and more specific the prompt, the better the result.
 
 My AI Study Setup:
-
+Using Claude to act as an additional helper, answering questions I have and quizzing me.
 
 ────────────────────────────────────────────────────────────────────────
 
@@ -60,7 +58,15 @@ CHAPTER 2 — Introduction to Software Development Workflow
 
 Lesson 01: Software Development Workflow (12:18)
 Notes:
+Project team consists of:
+- Product Owner = Identifies the product requirements by talking to the customer. Translates these requirements to the team. Figures out how and what the app should look like/do.
+- Software Developer = Program the application.
+- Tester = Test the application
+- Systems Administrator = Create and configure the sever and make the application accessible to the users. Manage and administer database, configure networking for servers.
 
+Collaboration is important.
+
+Communication between all team members allow for tasks and requirements to be defined clearly.
 
 Lesson 02: What is Agile and Scrum (19:53)
 Notes:
