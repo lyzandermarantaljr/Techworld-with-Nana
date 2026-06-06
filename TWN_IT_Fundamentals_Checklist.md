@@ -2,7 +2,7 @@
 
 > **12-week plan · ~10–14 hrs/week · ~60 hrs total video content**
 
----
+> Update statuses to 🟡 In progress / ✅ Complete as you go.
 
 ## 📅 Week 1 — Orientation, AI Setup & SDLC (~8–10 hrs)
 
@@ -22,19 +22,19 @@
 ### Chapter 2: Introduction to Software Development Workflow
 - [✅] Lesson 01: Software Development Workflow (12:18)
 - [✅] Lesson 02: What is Agile and Scrum (19:53)
-- [ ] Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
+- [✅] Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
 
 ### ✅ Week 1 Milestone
-- [ ] AI study assistant created and active
-- [ ] Jira board set up with first sprint
-- [ ] Know what SDLC, Agile, and Scrum mean in practice
+- [✅] AI study assistant created and active
+- [✅] Jira board set up with first sprint
+- [✅] Know what SDLC, Agile, and Scrum mean in practice
 
 ---
 
 ## 📅 Week 2 — JavaScript Fundamentals Part 1 (~10–12 hrs)
 
 ### Chapter 3: Web Development with HTML, CSS and JavaScript (Part 1)
-- [ ] Lesson 01: How Websites Work (9:21)
+- [🟡] Lesson 01: How Websites Work (9:21)
 - [ ] Lesson 02: What is JavaScript (5:47)
 - [ ] Lesson 03: Variables & Data Types (18:35)
 - [ ] Lesson 04: How to Execute JavaScript (14:13)
@@ -251,16 +251,3 @@
 - [ ] Certificate received
 - [ ] Teamable on GitHub with README
 - [ ] Resume/LinkedIn updated
-
----
-
-## 📊 Progress Tracker
-
-| Phase | Chapters | Status |
-|---|---|---|
-| Phase 1 — Foundation | Ch. 0, 1, 2, 3 | ⬜ Not started |
-| Phase 2 — Build | Ch. 4, 5, 6, 7 | ⬜ Not started |
-| Phase 3 — Deploy & Collab | Ch. 8, 9, 10, 11, 12, 13 | ⬜ Not started |
-| Wrap-up | Certificate + Portfolio | ⬜ Not started |
-
-> Update statuses to 🟡 In progress / ✅ Complete as you go.
