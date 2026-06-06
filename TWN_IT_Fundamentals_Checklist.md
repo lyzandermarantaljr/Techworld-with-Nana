@@ -21,7 +21,7 @@
 
 ### Chapter 2: Introduction to Software Development Workflow
 - [✅] Lesson 01: Software Development Workflow (12:18)
-- [ ] Lesson 02: What is Agile and Scrum (19:53)
+- [✅] Lesson 02: What is Agile and Scrum (19:53)
 - [ ] Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
 
 ### ✅ Week 1 Milestone
