@@ -121,7 +121,40 @@ Benefits:
 - Fast and flexible development and deployment process
 - Scrum & Kanban (specific implementations)
 
+What is Agile? 
 
+Develop the application with continuous, short iterations (and several phases)
+Teams cycle through a process of planning, executing and evluating.
+Easier and faster and cheaper to make adjustments during development (flexibility)
+Delivers product in small, but consumable increments.
+Requirements, plans and results are all evaluated continuously.
+Enables the team to respond to feedback quickly.
+
+Continuous collaboration with team members and the customers
+
+Scrum:
+
+Sprints: The duration of the actual iteration process (typically 2-3 weeks but could vary up to 1-4 weeks based on the projects needs)
+
+Goal is to build the most important features first.
+
+Feedback from previous sprints are used as input for upcoming sprints.
+
+Sprint Planning:
+- Prioritize tasks since you cannot work on all of it at once.
+- The list of prioritized requirements is called a backlog.
+- Backlog is flexible, things could be added, removed, or changed.
+
+Scrum Roles:
+
+- Scrum Master: ensures thet scrum is done properly by the team, guides and facilitates, responsible for holding meetings.
+- Product Owner: represents the customer's interests, add or removes or changes backlog, prioritizes tasks on a regular basis.
+- Scrum Team: self organized team, consists of programmers, testers, designers, system admins, etc. Shares responsibility for meeting the sprints goal.
+
+Other Stakeholders:
+Management and people from the customer side.
+
+JIRA Software used for scrum and project management.
 
 Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
 Notes:
