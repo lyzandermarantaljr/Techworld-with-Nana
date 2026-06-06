@@ -83,6 +83,44 @@ Lesson 02: What is Agile and Scrum (19:53)
 Notes:
 Software Development Lifecycle (SDLC)
 
+Programming:
+
+- Software is programmed by developers
+- One team per app or per feature depending on the scale of the project
+- Create new functions and fix bugs
+
+Software Testing:
+
+- Test the new features
+- Test the old code/functionality
+- Testing is done by developers or dedicated testers
+- Automated testing
+
+Operations:
+
+- Run software in production (on code that's already running)
+- Build application and run on servers (upgrade existing software)
+
+Waterfall vs Agile:
+
+Traditional Waterfall:
+1) Requirements = plan everything beforehand
+2) Developments = developers code complete app
+3) Testing = testing after everything has been deployed
+4) Operations = huge preparation
+
+The stages in this development cycle take months, proving to be extremely innefficient.
+Overtime new requirements may arise.
+Many places of failure and miscommunication.
+
+Agile Software Development:
+
+Benefits:
+- Each feature gets tested and deployed
+- Immediate feedback
+- Fast and flexible development and deployment process
+- Scrum & Kanban (specific implementations)
+
 
 
 Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
