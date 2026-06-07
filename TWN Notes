@@ -230,16 +230,33 @@ Code snippets / examples:
 Lesson 04: How to Execute JavaScript (14:13)
 Notes:
 
+Just gonna use Visual Studio.
 
 Lesson 05: Conditionals & Comparators (11:18)
 Notes:
 
+"==" compares values
+
+"===" compares values and data type
 
 Code snippets / examples:
+
+>=
+<=
+
+>
+<
+
+if, if else, if else if
+
+|| or
+
+!() Negation
 
 
 Lesson 06: Objects (13:56)
 Notes:
+
 
 
 Code snippets / examples:
