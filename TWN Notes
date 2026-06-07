@@ -189,10 +189,40 @@ Web Developer can work on all three components but to specialize in one you woul
 Lesson 02: What is JavaScript (5:47)
 Notes:
 
+- Javascript is the standard for the big majority of web development.
+
+3 Layers: HTML (structure), CSS (style), and JS (logic)
+
+Javascript is the only programming language for frontend.
+
+Javascript framework:
+- Dynamic
+- More powerful
+- JS changes a lot to improve
+- Complex to develop and manage big applications
+
+Most popular JS Frameworks:
+- React.js
+- Angular
+- Vue.js
+
+Node.js is meant for developing backend code. Alternative to Java, Python, etc.
+
+Framework is:
+- improved version of pure/vanilla Javascript
+- pre-written Javascript code
+- own concepts and syntax
+- makes writing JS easier
 
 Lesson 03: Variables & Data Types (18:35)
 Notes:
 
+Data types:
+Numbers = int, boolean, double
+String = "text"
+Boolean = true or false
+Array = [0, 2, 5]
+Object = {"age", 22}
 
 Code snippets / examples:
 
