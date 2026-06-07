@@ -35,8 +35,8 @@
 
 ### Chapter 3: Web Development with HTML, CSS and JavaScript (Part 1)
 - [✅] Lesson 01: How Websites Work (9:21)
-- [🟡] Lesson 02: What is JavaScript (5:47)
-- [ ] Lesson 03: Variables & Data Types (18:35)
+- [✅] Lesson 02: What is JavaScript (5:47)
+- [🟡] Lesson 03: Variables & Data Types (18:35)
 - [ ] Lesson 04: How to Execute JavaScript (14:13)
 - [ ] Lesson 05: Conditionals & Comparators (11:18)
 - [ ] Lesson 06: Objects (13:56)
