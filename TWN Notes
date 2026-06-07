@@ -157,10 +157,6 @@ Management and people from the customer side.
 JIRA Software used for scrum and project management.
 
 Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
-Notes:
-
-
-My Jira Board Setup Notes:
 
 
 ────────────────────────────────────────────────────────────────────────
@@ -170,6 +166,25 @@ CHAPTER 3 — Web Development with HTML, CSS and JavaScript
 Lesson 01: How Websites Work (9:21)
 Notes:
 
+- Files of the website "live" in California but temporarily live in your laptop. Travels from CA to your computer.
+
+Frontend:
+- HTML: Text, image, link, no style no swagger
+- CSS: Styling of a webpage, features colors, fonts, positioning
+- Javascript: The functionality of the website. Everything you interact with.
+
+Backend:
+- "Lives" in the back
+- Makes data available to others.
+- Keeps history of data.
+- Can be written in different languages
+- Validates the received data.
+
+Database:
+- Like a warehouse for data. Stores messages, comments, likes, etc.
+- Servers run 24/7 to be availabe to everyone at all times. Serves applications to people.
+
+Web Developer can work on all three components but to specialize in one you would be either a frontend developer, backend developer, or a database engineer.
 
 Lesson 02: What is JavaScript (5:47)
 Notes:
