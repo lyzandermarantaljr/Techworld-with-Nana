@@ -39,8 +39,8 @@
 - [✅] Lesson 03: Variables & Data Types (18:35)
 - [✅] Lesson 04: How to Execute JavaScript (14:13)
 - [✅] Lesson 05: Conditionals & Comparators (11:18)
-- [🟡] Lesson 06: Objects (13:56)
-- [ ] Lesson 07: Arrays (7:59)
+- [✅] Lesson 06: Objects (13:56)
+- [🟡] Lesson 07: Arrays (7:59)
 - [ ] Lesson 08: Loops (31:30)
 
 ### ✅ Week 2 Milestone
