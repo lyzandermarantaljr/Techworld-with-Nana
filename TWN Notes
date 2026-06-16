@@ -265,6 +265,15 @@ Code snippets / examples:
 Lesson 07: Arrays (7:59)
 Notes:
 
+friends['John', 'Joe', 'Jason']
+
+friends.length (gets the length)
+
+friends (prints the whole array)
+
+friends[3] = 'George' (adds to the array)
+
+friends.pop() (remove from the back)
 
 Code snippets / examples:
 
@@ -272,6 +281,7 @@ Code snippets / examples:
 Lesson 08: Loops (31:30)
 Notes:
 
+for loops
 
 Code snippets / examples:
 
