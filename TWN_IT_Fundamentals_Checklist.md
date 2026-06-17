@@ -41,7 +41,7 @@
 - [✅] Lesson 05: Conditionals & Comparators (11:18)
 - [✅] Lesson 06: Objects (13:56)
 - [✅] Lesson 07: Arrays (7:59)
-- [🟡] Lesson 08: Loops (31:30)
+- [✅] Lesson 08: Loops (31:30)
 
 ### ✅ Week 2 Milestone
 - [ ] Can write JS with variables, conditionals, loops, objects, and arrays from scratch
@@ -52,7 +52,7 @@
 ## 📅 Week 3 — JavaScript + HTML + CSS Complete (~10–12 hrs)
 
 ### Chapter 3: Web Development with HTML, CSS and JavaScript (Part 2)
-- [ ] Lesson 09: Functions (13:08)
+- [🟡] Lesson 09: Functions (13:08)
 - [ ] Lesson 10: Built-In Functions (53:29)
 - [ ] Lesson 11: Intro to HTML & CSS (1:58)
 - [ ] Lesson 12: HTML (35:05)
