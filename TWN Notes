@@ -283,7 +283,9 @@ Notes:
 
 for loops
 
-for in: for element in array
+"for in" for element in array
+
+"for of" more suitable for arrays
 
 Code snippets / examples:
 
