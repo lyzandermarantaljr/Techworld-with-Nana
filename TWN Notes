@@ -299,15 +299,14 @@ Define the code once and reuse it multiple times.
 
 Name the function something descriptive as to what the function actually does.
 
-Code snippets / examples:
-
-
 Lesson 10: Built-In Functions (53:29)
 Notes:
 
+Built in functions: Premade functions by the developers of javascript.
 
 Functions I want to remember:
 
+console.log() = Logs out the input to the console
 
 Lesson 11: Intro to HTML & CSS (1:58)
 Notes:
