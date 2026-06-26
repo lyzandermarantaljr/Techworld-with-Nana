@@ -23,13 +23,10 @@
         email: "nn@example.com",
         profileImage: "reference-image",
         friends: ["Mike", "Anna", "Jenny"],
-        posts: [post1, post2],
-        greet: function() {
-            console.log("Hello Nana")
-        }
+        posts: [post1, post2]
     }
 
-    facebookUserOne.greet()
+
 
     var facebookUserTwo = {
         userName: "Mike",
@@ -57,6 +54,22 @@
         replaceLikesWithReactions(user)
 
     }
+
+
+    var fullNames = ["Anna Smith", "Steve Black", "Kate Baker"]
+    var firstAndLastNames = []
+
+    for (fullName of fullNames) {
+
+        var names = fullName.split(/\s+/)
+        var firstAndLastName = {
+            firstName: names[0],
+            lastName: names[1]
+        }
+        firstAndLastNames.push(firstAndLastName)
+    }
+
+    console.log(firstAndLastNames)
 
 </script>
 
