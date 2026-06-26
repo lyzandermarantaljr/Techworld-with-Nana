@@ -308,7 +308,18 @@ Functions I want to remember:
 
 console.log() = Logs out the input to the console
 
+.pop() = remove last element
+.push() = add new element at the end
 
+You don't need to remember every method by heart.
+
+You will remember the most used ones but otherwise, you can just google it.
+
+.replace() = replace a specified value with another value
+
+.replace("Maria", "maria02") = find Maria, and replace with maria02
+
+.split() = splits a string into an array of substrings
 
 Lesson 11: Intro to HTML & CSS (1:58)
 Notes:
