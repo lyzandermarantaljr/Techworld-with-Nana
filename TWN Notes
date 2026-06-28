@@ -331,9 +331,16 @@ HTML is a standard markup language, CSS is a rule-based language
 Lesson 12: HTML (35:05)
 Notes:
 
+HTML stands for Hyper Text Markup Language.
 
-Tags / patterns I want to remember:
+Hyper text = links that connect webpages to one another. Hyper text is a text that contains links in web pages that redirects you to other web pages.
+             These links itself are called "hyperlinks", so HTML with this hyperlinks are a fundamental building block of the Web.
 
+HTML consists of different HTML elements, which you enclose or "mark up" your website content.
+
+These HTML elements are set off from other text by "tags", which is element name surrounded by "<" and ">"
+
+<div> Element = Defines a division or section in an HTML document. Used as a container for other HTML elements.
 
 Lesson 13: CSS (83:29)
 Notes:
