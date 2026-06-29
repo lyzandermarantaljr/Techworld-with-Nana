@@ -342,6 +342,38 @@ These HTML elements are set off from other text by "tags", which is element name
 
 <div> Element = Defines a division or section in an HTML document. Used as a container for other HTML elements.
 
+<b> Element = Makes the text bold
+
+<button> Elememt = Defines a clickable button
+
+<h1> - <h6> Element = Largest header type (1 being the largest)
+
+<i> Element = Make text italicized
+
+<p> Element = To define a paragraph
+
+<ul> to define an unordered list
+
+<ol> to define an ordered list
+
+<li> defines a list item. Used inside ordered or unordered list
+
+Inline Elements:
+Only take up as much width as necessary (b, i, img, button, etc)
+
+Block Elements:
+Take up full width (div, p, ol, ul, h1, h6, etc)
+
+href attribute = sepcifies the url of the page the link goes to
+
+url = uniform resource locator
+
+<input/> 
+
+Self-Closing Tags
+  - Usually tags have a starting and a closing tag
+  - Elements that cannot have content, don't require a closing tag. So these can be self-closing.
+
 Lesson 13: CSS (83:29)
 Notes:
 
