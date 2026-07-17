@@ -56,8 +56,8 @@
 - [✅] Lesson 10: Built-In Functions (53:29)
 - [✅] Lesson 11: Intro to HTML & CSS (1:58)
 - [✅] Lesson 12: HTML (35:05)
-- [🟡] Lesson 13: CSS (83:29)
-- [ ] Lesson 14: HTML head tags (17:51)
+- [✅] Lesson 13: CSS (83:29)
+- [🟡] Lesson 14: HTML head tags (17:51)
 - [ ] Lesson 15: Website with HTML, CSS & JavaScript (39:16)
 
 ### ✅ Week 3 Milestone
