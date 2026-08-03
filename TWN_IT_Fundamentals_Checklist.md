@@ -1,10 +1,6 @@
 # TechWorld with Nana — IT Fundamentals Checklist
 
-> **12-week plan · ~10–14 hrs/week · ~60 hrs total video content**
-
 > Update statuses to 🟡 In progress / ✅ Complete as you go.
-
-## 📅 Week 1 — Orientation, AI Setup & SDLC (~8–10 hrs)
 
 ### Chapter 0: Course Overview & Getting Started
 - [✅] Lesson 01: Welcome & Course Overview (3:35)
@@ -24,15 +20,6 @@
 - [✅] Lesson 02: What is Agile and Scrum (19:53)
 - [✅] Lesson 03: Backlog and Scrum Board in Jira — Demo (29:50)
 
-### ✅ Week 1 Milestone
-- [✅] AI study assistant created and active
-- [✅] Jira board set up with first sprint
-- [✅] Know what SDLC, Agile, and Scrum mean in practice
-
----
-
-## 📅 Week 2 — JavaScript Fundamentals Part 1 (~10–12 hrs)
-
 ### Chapter 3: Web Development with HTML, CSS and JavaScript (Part 1)
 - [✅] Lesson 01: How Websites Work (9:21)
 - [✅] Lesson 02: What is JavaScript (5:47)
@@ -43,30 +30,14 @@
 - [✅] Lesson 07: Arrays (7:59)
 - [✅] Lesson 08: Loops (31:30)
 
-### ✅ Week 2 Milestone
-- [ ] Can write JS with variables, conditionals, loops, objects, and arrays from scratch
-- [ ] Completed all code-along exercises for Lessons 1–8
-
----
-
-## 📅 Week 3 — JavaScript + HTML + CSS Complete (~10–12 hrs)
-
 ### Chapter 3: Web Development with HTML, CSS and JavaScript (Part 2)
 - [✅] Lesson 09: Functions (13:08)
 - [✅] Lesson 10: Built-In Functions (53:29)
 - [✅] Lesson 11: Intro to HTML & CSS (1:58)
 - [✅] Lesson 12: HTML (35:05)
 - [✅] Lesson 13: CSS (83:29)
-- [🟡] Lesson 14: HTML head tags (17:51)
-- [ ] Lesson 15: Website with HTML, CSS & JavaScript (39:16)
-
-### ✅ Week 3 Milestone
-- [ ] Built the HTML/CSS/JS website from Lesson 15 without looking at notes
-- [ ] Understand how JS, HTML, and CSS interact together
-
----
-
-## 📅 Week 4 — Frontend Project + npm (~10–13 hrs)
+- [✅] Lesson 14: HTML head tags (17:51)
+- [🟡] Lesson 15: Website with HTML, CSS & JavaScript (39:16)
 
 ### Chapter 4: Implement Frontend of Teamable Demo Project (HTML, CSS, JavaScript)
 - [ ] Lesson 01: Develop Teamable Demo App with HTML, CSS, and JavaScript (44:06)
@@ -83,29 +54,9 @@
 - [ ] Lesson 12: Install npm on Windows (9:19)
 - [ ] Lesson 13: Install JavaScript Libraries with npm (48:33)
 
-### ✅ Week 4 Milestone
-- [ ] Teamable v1 frontend built with vanilla HTML/CSS/JS
-- [ ] npm installed and working
-- [ ] Comfortable installing and using external JS libraries
-
----
-
-## 📅 Week 5 — Buffer + VueJS Intro (~6–10 hrs, flexible)
-
-> *Use this week to finish any Ch. 4 overflow, solidify npm understanding, and ease into VueJS.*
-
 ### Chapter 5: Implement Frontend of Teamable Demo Project (VueJS) — Part 1
 - [ ] Lesson 01: VueJS Tutorial Part 1 (41:10)
 - [ ] Lesson 02: VueJS Tutorial Part 2 (34:48)
-
-### ✅ Week 5 Milestone
-- [ ] Ch. 4 fully complete and understood
-- [ ] VueJS concepts clear — reactivity, components, directives
-- [ ] No outstanding questions on npm or framework concepts
-
----
-
-## 📅 Week 6 — VueJS Frontend + NodeJS Backend Intro (~11–13 hrs)
 
 ### Chapter 5: Implement Frontend of Teamable Demo Project (VueJS) — Part 2
 - [ ] Lesson 03: Implement Frontend with HTML, CSS & VueJS Part 1 (22:12)
@@ -119,15 +70,6 @@
 - [ ] Lesson 05: Implement Web Server with NodeJs (21:33)
 - [ ] Lesson 06: JSON Explained (3:25)
 - [ ] Lesson 07: Implement Data Exchange Between Frontend & Backend (38:53)
-
-### ✅ Week 6 Milestone
-- [ ] Teamable frontend rewritten in VueJS
-- [ ] NodeJS web server running locally
-- [ ] Frontend and backend exchanging data
-
----
-
-## 📅 Week 7 — Complete Backend + Connect Database (~11–12 hrs)
 
 ### Chapter 6: Implement Backend of Teamable Demo Project (NodeJS) — Part 2
 - [ ] Lesson 08: Implement Teamable Application Backend with NodeJS (46:34)
@@ -143,15 +85,6 @@
 - [ ] Lesson 08: Connect Teamable Backend to MongoDB Part 1 (32:28)
 - [ ] Lesson 09: Connect Teamable Backend to MongoDB Part 2 (18:57)
 
-### ✅ Week 7 Milestone
-- [ ] **Full-stack Teamable app running locally — frontend + backend + database**
-- [ ] MongoDB installed and connected to NodeJS backend
-- [ ] Data persists across sessions in the database
-
----
-
-## 📅 Week 8 — Testing + Packaging (~8–10 hrs)
-
 ### Chapter 8: Implement Automated Tests for Teamable Demo Project (Jest)
 - [ ] Lesson 01: Test Automation Explained (3:11)
 - [ ] Lesson 02: Automated Test Types Explained (8:09)
@@ -161,15 +94,6 @@
 ### Chapter 9: Packaging Teamable Demo Project (Project Artifact)
 - [ ] Lesson 01: Build & Package Teamable Application (19:39)
 - [ ] Lesson 02: Running Application from Package/Artifact (9:25)
-
-### ✅ Week 8 Milestone
-- [ ] Unit and integration tests written and passing for Teamable
-- [ ] App successfully packaged as a deployable artifact
-- [ ] Can explain the difference between unit and integration tests
-
----
-
-## 📅 Week 9 — Cloud Deployment + Security (~11–13 hrs)
 
 ### Chapter 10: Deploy Teamable Application on Linux Server or on Cloud
 - [ ] Lesson 01: Server Basics Explained (28:30)
@@ -189,16 +113,6 @@
 - [ ] Lesson 03: Configure Database Access with Credentials in Backend Application (9:19)
 - [ ] Lesson 04: Configure Access to Environment Variables in Backend Application (29:27)
 - [ ] Lesson 05: Destroy Droplet (2:31)
-
-### ✅ Week 9 Milestone
-- [ ] **Teamable app live and accessible on a cloud Linux server**
-- [ ] Firewall configured, SSH working, server secured
-- [ ] Environment variables configured for multi-env deployment
-- [ ] Sprint 1 closed in Jira, Sprint 2 started
-
----
-
-## 📅 Week 10 — Git Workflow + AI Tools (~10–11 hrs)
 
 ### Chapter 12: Version Control for Code — GIT
 - [ ] Lesson 01: Introduction to Version Control (4:54)
@@ -220,34 +134,3 @@
 - [ ] Lesson 03: Troubleshooting with AI (13:48)
 - [ ] Lesson 04: Generating Automation Script and Documentation with AI (14:53)
 
-### ✅ Week 10 Milestone
-- [ ] Teamable codebase pushed to remote Git repository
-- [ ] Practiced branching, merging, and resolving a merge conflict
-- [ ] Comfortable using AI tools to assist with coding and debugging
-
----
-
-## 📅 Week 11 — Buffer / Catch-Up Week (Flexible)
-
-> *Use this however you need. On track? Go deep. Behind? No guilt — just catch up.*
-
-- [ ] Identify 1–2 chapters that felt shaky and re-do the demos
-- [ ] Rebuild a piece of Teamable from scratch without following along
-- [ ] Review all sprint progress in Jira
-- [ ] Update your GitHub repo with clean commits and a README
-
----
-
-## 📅 Week 12 — Final Review + Wrap-Up (~4–6 hrs)
-
-- [ ] Complete any remaining lessons
-- [ ] Full end-to-end walkthrough of the Teamable app — can you explain every piece?
-- [ ] Submit for Certificate of Completion
-- [ ] Add certificate to LinkedIn
-- [ ] Write a project description for Teamable for your resume/portfolio
-- [ ] Push final Teamable code to GitHub with a proper README
-
-### 🏁 Done!
-- [ ] Certificate received
-- [ ] Teamable on GitHub with README
-- [ ] Resume/LinkedIn updated
