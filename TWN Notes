@@ -411,6 +411,10 @@ Tells the browser that this is an HTML document including which HTML version.
 Lesson 15: Website with HTML, CSS & JavaScript (39:16)
 Notes:
 
+Function Invocation:
+The code inside a function executes only when "something" invokes the function.
+
+HTML elements have "events"
 
 What I built:
 
