@@ -384,6 +384,29 @@ Properties / tricks I want to remember:
 Lesson 14: HTML head tags (17:51)
 Notes:
 
+<head> Tag
+
+A container for metadata about the website.
+Is not displayed on the website (title/description).
+
+Bootstrap:
+A free CSS framework.
+Contains HTML, CSS and JS-based design templates which you can use in your website.
+
+Favicon:
+Tiny logo at the top of the tab.
+
+<meta> element:
+Defines metadata about an HTML document.
+Not displayed on the page, but machine parsable.
+
+<html> element:
+The root element, holding all the content of an HTML document.
+Tip: include the lang attribute to define the language of your web page (for search engine).
+
+<!DOCTYPE html>:
+All HTML documents must start with it.
+Tells the browser that this is an HTML document including which HTML version.
 
 Lesson 15: Website with HTML, CSS & JavaScript (39:16)
 Notes:
