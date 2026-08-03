@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Why Learn DevOps</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="icon" type="image/png" href="favicon/favicon-96x96.png">
+        <link rel="icon" type="image/ico" href="favicon/favicon.ico">
+        <meta name="keywords" contents="develops, learn devops, engineering">
+        <meta name="description" content="tech articles about DevOps">
+        <script src="app.js"></script>
+    </head>
+
+    <body>
+        <div id="header-wrapper">
+            <div id="header">
+                <div id="logo-search-container">
+                    <img id="logo" src="logo.webp" />
+                    <input type="text" placeholder="Search..."/>
+                </div>
+                <button onclick="handleCreatePost()">Create Post</button>
+            </div>
+        </div>
+
+        <div id="post-form-container">
+            <form>
+                <label><b>Title</b></label>
+                <input type="text" placeholder="Enter title" required>
+                <label><b>Description</b></label>
+                <input type="text" placeholder="Enter description">
+                <label><b>Post</b></label>
+                <textarea  placeholder="Your post..."></textarea>
+                <button id="hide-btn" onclick="hidePostForm()">Hide form</button>
+                <button id="save-btn">Save form</button>
+            </form>
+
+
+        </div>
+
+        <div id="main-section-container">
+            <div id="article-section">
+                <img id="article-cover" src="cover.webp"/>
+                <div>
+                    <h1>Article title</h1>
+                    <h3>Short information on article</h3>
+                    <p class="article-info"><i>written by: Nana Janashia</i></p>
+                    <p class="article-info"><i>date: 2022.10.21</i></p>
+                </div>
+
+                <div>
+                    <p>paragraph 1</p>
+                    <p>paragraph 2</p>
+
+                    <h4>section header</h4>
+                    <p>paragraph 1</p>
+                    <ul>
+                        <li>item 1</li>
+                        <li>item 2</li>
+                        <li>item 3</li>
+                    </ul>
+                </div>
+            </div>
+        
+            <div id="side-section">
+                <div>
+                    <h2>Side section</h2>
+                    <h3>Another article title</h3>
+                    <h4>Another article short info</h4>
+                    <a href="https://dev.to/techworld_with_nana/sre-and-tasks-of-an-sre-explained-3ah9">Click to see article</a>
+                </div>
+
+                <div>
+                    <h2>Also Side section</h2>
+                    <h3>article title</h3>
+                    <h4>short description</h4>
+                    <a href="https://dev.to/techworld_with_nana/gitlab-cicd-for-beginners-free-course-2mee">Click to see article</a>
+                </div>
+            </div>
+        </div>
+
+        <div id="footer">
+            <p>This is the footer</p>
+        </div>
+    </body>
+
+</html>
