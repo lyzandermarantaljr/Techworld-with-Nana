@@ -426,6 +426,10 @@ CHAPTER 4 — Implement Frontend of Teamable Demo Project (HTML, CSS, JavaScript
 Lesson 01: Develop Teamable Demo App with HTML, CSS, and JavaScript (44:06)
 Notes:
 
+<span> element:
+To wrap text.
+Much like the <p> or <div> elemebt
+Difference is that these are block-elements, whereas span is an inline element
 
 Lesson 02: JavaScript Frameworks (5:55)
 Notes:
