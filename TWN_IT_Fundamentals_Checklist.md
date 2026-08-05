@@ -40,8 +40,8 @@
 - [✅] Lesson 15: Website with HTML, CSS & JavaScript (39:16)
 
 ### Chapter 4: Implement Frontend of Teamable Demo Project (HTML, CSS, JavaScript)
-- [🟡] Lesson 01: Develop Teamable Demo App with HTML, CSS, and JavaScript (44:06)
-- [ ] Lesson 02: JavaScript Frameworks (5:55)
+- [✅] Lesson 01: Develop Teamable Demo App with HTML, CSS, and JavaScript (44:06)
+- [🟡] Lesson 02: JavaScript Frameworks (5:55)
 - [ ] Lesson 03: Maintaining JavaScript Frameworks (2:47)
 - [ ] Lesson 04: Open Source Explained (2:11)
 - [ ] Lesson 05: Libraries Explained (2:15)
