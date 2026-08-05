@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Teamable</title>
+        <link rel="stylesheet" href="style.css"/>
+        <script src="app.js"></script>
+    </head>
+
+    <body>
+        <div id="display-view">
+            <h1>User profile</h1>
+            <img src="100_0449.JPG">
+
+            <span>Name: </span><b id="name">Zander Marantal</b>
+            <hr />
+
+            <span>Email: </span><b id="email">lyzandermarantaljr@gmail.com</b>
+            <hr />
+
+            <span>Interests: </span><b id="interests">Rose</b>
+            <hr />
+
+            <button onclick="handleEditProfile()">Edit Profile</button>
+        </div>
+
+        <div id="edit-view" >
+            <h1>User profile</h1>
+            <img src="100_0449.JPG">
+
+            <span>Name: </span>
+            <input type="text" id="input-name" placeholder="Zander Marantal">
+            <hr />
+
+            <span>Email: </span>
+            <input type="text" id="input-email" placeholder="lyzandermarantaljr@gmail.com">
+            <hr />
+
+            <span>Interests: </span>
+            <input type="text" id="input-interests" placeholder="Rose">
+            <hr />
+
+            <button onclick="handleUpdateProfile()">Update Profile</button>
+        </div>
+
+    </body>
+</html>
